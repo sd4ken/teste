@@ -1,2 +1,2 @@
 import-module ActiveDirectory
-get-aduser sms38 -Properties *
+get-aduser "sms38" -Properties *
