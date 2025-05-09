@@ -1,3 +1,3 @@
 import-module ActiveDirectory
-$ad=Read-host "Informe o login"
-get-aduser $ad -properties *
+$ad=Read-Host "Informe o login"
+get-aduser $ad -Properties *
